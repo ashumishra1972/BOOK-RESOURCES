@@ -1,0 +1,16 @@
+body{
+	background-image:url("https://images.unsplash.com/photo-1528459061998-56fd57ad86e3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=619&q=80");
+	background-repeat:no-repeat;
+	background-size:100%;
+}
+
+h1{
+	text-decoration:underline;
+	padding-top:100px;
+	padding-bottom:40px;
+	color:white;
+}
+
+td{
+	color:white;
+}
